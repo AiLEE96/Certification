@@ -21,4 +21,6 @@
     1.4.3 Amazon
 
 ## 2.1 자격증 취득 후기
-    자격증 취득 후기는 하위 디렉토리 기재    
+    [SAA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/AWS/SAA-C03.md)
+    [CKA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/Kubernetes/CKA.md)
+    [NCA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/Naver/NCA.md)    
