@@ -25,6 +25,12 @@
 ## 2.1 자격증 취득 후기
 [SAA-C03 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/AWS/SAA-C03.md)
 
+![AWS](/Z.img/AWS-SAAC03.png)
+
 [CKA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/Kubernetes/CKA.md)
 
-[NCA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/Naver/NCA.md)    
+![CKA](/Z.img/Kubernetes-CKA.png)
+
+[NCA 자격증 취득 후기](https://github.com/AiLEE96/Certification/blob/main/Naver/NCA.md)
+
+![NCA](/Z.img/Naver-NCA.png)
