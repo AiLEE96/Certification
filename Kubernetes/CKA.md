@@ -1,4 +1,4 @@
-# SAA-C03
+# CKA
 
 ## 1. 공부 기간
 
@@ -60,7 +60,7 @@
 
  ## 4. 자격증
 
- ![AWS-SAA-C03](/Z.img/Kubernetes-CKA.png)
+ ![CKA](/Z.img/Kubernetes-CKA.png)
 
  
 
